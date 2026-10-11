@@ -1,0 +1,9 @@
+.vscode
+*.ccspjt
+*.cod
+*.esym
+*.lst
+*.hex
+*.err
+*.sym
+*.xsym
